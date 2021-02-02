@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#data
+seg_train
+seg_test
+seg_pred
